@@ -1,3 +1,6 @@
 Mark Christian Tabang - revised
+<<<<<<< HEAD
 
 Hello! How are you?
+=======
+>>>>>>> 8cba902bfad2adc0a7645295d926b79e4a2efcf7
